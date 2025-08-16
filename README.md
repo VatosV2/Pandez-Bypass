@@ -3,7 +3,7 @@
     <img src="https://www.requestcord.eu/pandez.png" alt="Logo" witdth width="120" height="120">
   </a>
 
-  <h3 align="center">Pandez Bot Bypass<a href="https://discord.gg/nexustools"></a></h3>
+  <h3 align="center">Pandez Bot Bypass<a href="https://discord.gg/nexustoolss"></a></h3>
 
   <p align="center">
     Pandez Bot Bypass - 2Captcha Solver
